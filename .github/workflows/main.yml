@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site idia :</title>
+    <link rel="stylesheet" href="styles.css">
+    <meta name="author" content="khadija berki">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #080808;
+        }
+        header {
+            background-color: #010101;
+            color: white;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+        }
+        nav ul li {
+            margin-right: 20px;
+        }
+        nav ul li a {
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+        }
+        .container {
+            max-width: 900px;
+            margin: 50px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+        }
+        section {
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>idia s1 </h1>
+        <nav>
+            <ul>
+                <li><a href="#algo">Algorithmes & Langage C</a></li>
+                <li><a href="#archi">Architecture des ordinateurs </a></li>
+                <li><a href="#bdd">Bases de Données</a></li>
+                <li><a href="#os">Systèmes d'Exploitation</a></li>
+                <li><a href="#algo"> analyse</a></li>
+               <LI><a href="#cont"> contact us  </a></LI>
+            </ul>
+        </nav>
+    </header>
+    
+    <div class="container">
+      <h1 style="text-align: center;"> Bienvenue sur votre espace d’apprentissage - IDIA S1</h1>
+        <section id="algo">
+            <h3> <p style="color:blue;">Algorithmes & Langage C</p></h3>
+            
+            <ol>
+                <li><h3> langage c :</h3> 
+                    <ul>
+                        <li> <i> <b> cours :</b></i></li>
+                        <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/videoseries?list=PLZpzLuUp9qXxKSkKT43ppqzb8c2ahO4VS" 
+    title="Playlist YouTube - Algorithmes et Langage C" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
+
+                      
+</iframe>
+
+                        <li> <i><b> exercices :</b></i></li>
+                        <iframe width="560" height="315" 
+                        src="https://www.youtube.com/embed/videoseries?list=PLZpzLuUp9qXzkVC9zYr6SXxHRKIbzBaK9" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        allowfullscreen>
+                    </iframe>
+                                            
+                    </ul>
+                </li>
+                <li><h3>Algorithmes:</h3></li>
+                 <ul>
+                    <li><i><b> cours :</b></i></li>
+                 <iframe width="560" height="315" 
+                        src="https://www.youtube.com/embed/videoseries?list=PLZpzLuUp9qXwrApSukhtvpi4U6l-INcTI" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        allowfullscreen>
+                    </iframe>
+                    <li><i><b> exercices :</b></i></li> 
+                    <iframe width="560" height="315" 
+                        src="https://www.youtube.com/embed/videoseries?list=PLZpzLuUp9qXzOgDakYP0UAGIBNk0pPdvZ" 
+                        title="YouTube video player" 
+                        frameborder="0" 
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                        allowfullscreen>
+                    </iframe>
+                   </ul>
+            </ol>
+            <h3> les meilleurs site web de programmation :</h3>
+            <li><a href="https://openclassrooms.com" target="_blank">OpenClassrooms</a></li>
+            <li><a href="https://w3schools.com" target="_blank">w3schools</a></li>
+
+
+        </section>
+        
+        <section id="archi">
+
+
+           <h3><p style="color:blue;">architecture des ordinateurs </p> </h3>
+            <ol>
+                 <li>systeme de numeration 
+                   <br>
+                    <ul>
+                  
+                        <li>binaire:
+                        </li>
+                        <li>octal :</li>
+                        <li>decimal:</li>
+                        <li>hexadecimal :</li>
+                    </ul><br>
+                    <iframe width="560" height="315" 
+                    src="https://www.youtube.com/embed/videoseries?list=PL2aehqZh72Ltwujnj3NOR53oGPjmfupxU&index=1&pp=iAQB" 
+                    title="YouTube video player" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen>
+                </iframe> 
+                <iframe width="560" height="315" 
+                src="https://www.youtube.com/embed/videoseries?list=PLnvd4TsBL16MhtYIb0VeWVMAnIjSPsh56" 
+                title="YouTube video player" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen >
+            </iframe>
+                
+                <ul>
+                    <li> code gray :</li><br>
+                    <iframe width="560" height="315 " src="https://www.youtube.com/embed/L-X0EeY2hwA?si=lJb80v9c79t4oN0C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/T127AhM_I8Y?si=Y2p3s8j28s32_x_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                
+                    <li> ieee 754 : </li>
+                    <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/RS6_1cQsCZU?start=70" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+    </iframe>
+    <h3> un pdf pour bien comprendre la methode de ieee 754 :</h3>
+
+    
+                  
+    <a href="c:\Users\USER\Downloads\Presentation 19.pptx" target="_blank">Presentation 19 </a>
+    <br>
+                    
+                </ul>
+                 </li>
+               
+                 <li>logique combinatoire et booleene 
+                  
+                 </li> <br>
+                 <iframe width="560" height="315" 
+                 src="https://www.youtube.com/embed/videoseries?list=PL3FwHB34wY1MOfBxKAjInJzWgRjSeoMYO" 
+                 title="YouTube video player" 
+                 frameborder="0" 
+                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                 allowfullscreen >
+             </iframe>
+             <iframe width="560" height="315" 
+             src="https://www.youtube.com/embed/videoseries?list=PL2aehqZh72LvM6VRvik9Pb-oCngTsB800" 
+             title="YouTube video player" 
+             frameborder="0" 
+             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+             allowfullscreen >
+         </iframe>
+                 
+                 
+                 <li> les circuits sequentiels </li>
+                 
+                 
+             
+         <iframe width="560" height="315" 
+         src="https://www.youtube.com/embed/videoseries?list=PLh-cmumFWNjy0Wx2izGolLFCNHeUTbd3N" 
+         title="YouTube video player" 
+         frameborder="0" 
+         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+         allowfullscreen >
+     </iframe>  
+     <h3>  TD :</h3>
+     <a href="https://classroom.google.com/c/NzI2MDM2OTkyNzgy/p/NzI2MDM3ODMwOTA1/details" target="_blank">TD1 : </a><BR>
+     <a href="https://classroom.google.com/c/NzI2MDM2OTkyNzgy/p/NzI2MDM5MDQ2MTk3/details" target="_blank">TD2 :</a><BR>
+     <a href="https://classroom.google.com/c/NzI2MDM2OTkyNzgy/p/NzI3NDA4NTUyNzI0/details" target="_blank">TD3 : </a><BR>
+        <a href="https://classroom.google.com/c/NzI2MDM2OTkyNzgy/p/NzI4NTEzNTI3OTM0/details" target="_blank">TD4 : </a><BR>
+            <a href="https://classroom.google.com/c/NzI2MDM2OTkyNzgy/p/NzE3MDk5ODA1MjYz/details" target="_blank">TD5 : </a><BR>
+                <a href="https://classroom.google.com/c/NzI2MDM2OTkyNzgy/p/NzMyMDM5NzkzMzIy/details" target="_blank">TD6 : </a><BR>
+                  
+
+
+
+
+
+        </section>
+        
+        <section id="bdd">
+            <h3><p style="color:blue;">base des donnees </p></h3>
+                <iframe width="560" height="315" 
+                src="https://www.youtube.com/embed/videoseries?list=PLFtlZvb4qwees1u9G58Iu0Vq_Dzj4zX5N" 
+                title="YouTube video player" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen >
+            </iframe>  
+           
+
+        <h3> les cours :</h3>
+        <a href="https://drive.google.com/file/d/1deIM80YjKD4HPSbwoiKK1ONwQafqVwJi/view?usp=classroom_web&authuser=0" target="_blank">cours 1: </a><BR>
+            <a href="https://drive.google.com/file/d/18rwvCrlOKSW-_tEkVjGvCVXt27t2pEPn/view?usp=classroom_web&authuser=0" target="_blank">cours 2: </a><BR>
+
+                <a href="https://classroom.google.com/c/NzI2MDQxOTM3NDEw/p/NzI4NjA3OTUyNDIw/details" target="_blank">cours 3: </a><BR>
+                    <a href="https://classroom.google.com/c/NzI2MDQxOTM3NDEw/p/NzI4NjA3OTUyNDIw/details" target="_blank">cours 4: </a><BR>
+                        <a href="https://classroom.google.com/c/NzI2MDQxOTM3NDEw/p/NzI4NjA3OTUyNDIw/details" target="_blank">cours 5: </a><BR>
+                            <a href="https://classroom.google.com/c/NzI2MDQxOTM3NDEw/p/NzI4NjM4NTIxNzk5/details" target="_blank">cours 6: </a><BR>
+                                <a href="https://drive.google.com/file/d/1TzfdI0yl1ENpB0EKEB1y7QTOVnaxCxNG/view?usp=classroom_web&authuser=0" target="_blank">cours 7: </a><BR>
+                                    <a href="https://classroom.google.com/c/NzI2MDQxOTM3NDEw/p/NzQyNTgxNjQwMzUz/details" target="_blank">cours 8: </a><BR>
+                                        <h3> les TD :</h3>
+                                        <a href="https://classroom.google.com/c/NzI2MDQxOTM3NDEw/p/NzI3MTU4OTg4MjY4/details" target="_blank">TD1: </a><BR>
+                                            <a href="https://classroom.google.com/c/NzI2MDQxOTM3NDEw/p/NzI4NTE0MDQ1OTM3/details" target="_blank">TD2: </a><BR>
+                                                <a href="https://classroom.google.com/c/NzI2MDQxOTM3NDEw/p/NzE3MDc5OTMwNDg2/details" target="_blank">TD3: </a><BR>
+                                                    <a href="https://drive.google.com/file/d/1maUJKgzZpOyNNcx3UsBMqZy5xO5pMJ7P/view?usp=classroom_web&authuser=0" target="_blank">TD4: </a><BR>
+                                                        <a href="https://drive.google.com/file/d/16LRdHx7rprGAtfc0ThXGvFU7JRI-0JEK/view?usp=classroom_web&authuser=0" target="_blank">TD5: </a><BR>
+                                                            <a href="https://classroom.google.com/c/NzI2MDQxOTM3NDEw/p/NzQxNjMzMjgzNDE3/details" target="_blank">TD6: </a><BR>
+                                                                <a href="https://classroom.google.com/c/NzI2MDQxOTM3NDEw/p/NzQzMDMxNTA4OTM3/detailsR" target="_blank">TD7: </a><BR>
+                                            
+                    <H3>CORRECTIONS TD :</H3>        
+                    <a href="https://classroom.google.com/c/NzI2MDQxOTM3NDEw/p/NzI3MTU4OTg4MjY4/details" target="_blank"> TD1.cor</a><BR>
+                    <a href="https://classroom.google.com/c/NzI2MDQxOTM3NDEw/p/NzMwMjI0MTUwOTY5/details" target="_blank"> TD2.cor</a><BR>
+                    <a href="https://classroom.google.com/c/NzI2MDQxOTM3NDEw/p/NzQzNDk4OTg4MDY2/details" target="_blank"> TD7.cor </a><BR>
+                   
+        </section>
+        
+        <section id="os">
+            <h3><p style="color:blue;">Systèmes d'Exploitation </p></h3>
+            
+            <iframe width="560" height="315" 
+            src="https://www.youtube.com/embed/videoseries?list=PLu8dLWf5G2NL0yC6B9hxV2nKHSAnjrtVf" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen >
+        </iframe> 
+    
+        <iframe width="560" height="315" 
+            src="https://www.youtube.com/embed/videoseries?list=PLiS1ejpMEwB5CsFKib_iS911_bbzHugcA" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen >
+        </iframe> 
+        <h3> les cours :</h3>
+        <a href="https://classroom.google.com/c/NzE3MTAyNTI5MTI0/p/NzMwNDMwNDY3NDAz/details" target="_blank"> Chapitre 0 : Architecture d'un ordinateur  </a><br>
+        <a href="https://classroom.google.com/c/NzE3MTAyNTI5MTI0/p/NzMwNDI5NTM4MzU2/details" target="_blank"> Chapitre 1 : Introduction aux systèmes d'exploitation</a><br>
+        <a href="https://classroom.google.com/c/NzE3MTAyNTI5MTI0/p/NzMwNDM0NTI5Nzg3/details" target="_blank"> Chapitre 2 : Gestion des fichiers</a><br>
+        <a href="https://classroom.google.com/c/NzE3MTAyNTI5MTI0/p/NzMwNDM0MjAyMTgz/details" target="_blank"> Chapitre 2_Suite: Gestion des fichiers</a><br>
+        <a href="https://classroom.google.com/c/NzE3MTAyNTI5MTI0/p/NzE3MTMyMzY5MDk2/details" target="_blank"> Chapitre 3 : Gestion des utilisateurs et des droits</a><br>
+        <a href="https://classroom.google.com/c/NzE3MTAyNTI5MTI0/p/NzQwMTE0MjY3ODg5/details" target="_blank"> Chapitre 4: Gestion des processus</a><br>
+        <a href="https://classroom.google.com/c/NzE3MTAyNTI5MTI0/p/NzQxNzQzNDMxMzM5/details" target="_blank">Chapitre 5: Ordonnancement </a><br>
+       
+        <a href=" https://classroom.google.com/c/NzE3MTAyNTI5MTI0/p/NzQyNjA1NTYzNDQ5/details" target="_blank">Chapitre 6:Systemd </a><br>
+        <h3> TD ET TP  :</h3>
+        <a href="https://classroom.google.com/c/NzE3MTAyNTI5MTI0/p/NzMwNDM0ODkxMzI5/details" target="_blank"> TD1 </a><br>
+        <a href="https://classroom.google.com/c/NzE3MTAyNTI5MTI0/p/NzMwNDM1NjY1MzA2/details" target="_blank">  TP1</a><br>
+        <a href="https://classroom.google.com/c/NzE3MTAyNTI5MTI0/p/NzIxODA0NTQ2NzY2/details" target="_blank">   TP2</a><br>
+        <a href="https://classroom.google.com/c/NzE3MTAyNTI5MTI0/p/NzM1MjI0OTc2NTc3/details" target="_blank"> TD2  </a><br>
+        <a href="https://classroom.google.com/c/NzE3MTAyNTI5MTI0/p/NzM2NDkwNTg4MjA5/details" target="_blank"> TP3  </a><br>
+        <a href="https://classroom.google.com/c/NzE3MTAyNTI5MTI0/p/NzQwMTE4MTIxODAx/details" target="_blank">  TP4</a><br>
+        <a href="https://classroom.google.com/c/NzE3MTAyNTI5MTI0/p/NzQyNDE2ODIyNzk4/details" target="_blank">  TP5</a><br>
+        <a href="https://classroom.google.com/c/NzE3MTAyNTI5MTI0/p/NzIyNTM3MTAyMzQ2/details" target="_blank">  TP6</a><br>
+        <a href="https://classroom.google.com/c/NzE3MTAyNTI5MTI0/p/NzQyOTkxMTY1NzA4/details" target="_blank">  TD3</a><br>
+        <a href="https://classroom.google.com/c/NzE3MTAyNTI5MTI0/p/NzQwMTE4MTIxODAx/details" target="_blank">  TP4</a><br>
+       <H3>CORRECTIONS TP :</H3>
+       <a href="https://docs.google.com/document/d/1nBApWgGYUyVQeTVDE2ndUJWM1wFokcgWz3V3W7-lIb4/edit?usp=sharing" target="_blank"> TP1.COR </a><br>
+       <a href="https://docs.google.com/document/d/1zm5cm6uthmpWBdIULu_HZjrI7t6Q06rbOsv4gFT1CKo/edit?usp=sharing" target="_blank"> TP3.COR </a><br>
+       <a href="https://docs.google.com/document/d/1aJ5GkyH2ypk3NG3yzft-MPZsIKmKILlAUh-T5kOs8BQ/edit?usp=sharing" target="_blank"> TD4.COR </a><br>
+       <a href="https://docs.google.com/document/d/1MIH8BGs9WbaNH42tZJ5ngbycLQxtp2jfdYMZho_ijkM/edit?usp=sharing" target="_blank"> TD5.COR</a><br>
+       <a href="https://docs.google.com/document/d/1DRB8IB4mSMH3ZUWofgC0FWJ9k7hk8C9ZmeMXPId2Lig/edit?usp=sharing" target="_blank"> TD6.COR </a><br>
+      
+        </section>
+        
+        <section id="contact">
+            <h2>Informations de contact</h2>
+            <p>Email : <a href="mailto:tonemail@example.com">khadija.berki24@ump.ac.ma</a></p>
+            <p>Numéro : <a href="tel:+123456789">0640310828</a></p>
+            <p>Instagram : <a href="https://instagram.com/khadija_berki" target="_blank">khadija_berki</a></p>
+        </section>
+    
+        <section id="commentaires">
+            <h2>Vos commentaires</h2>
+            <form id="commentForm">
+                <label for="nom">Nom :</label>
+                <input type="text" id="nom" name="nom" required>
+    
+                <label for="message">Commentaire :</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+    
+                <button type="submit">Envoyer</button>
+            </form>
+    
+            <div id="commentList">
+              
+                <!-- Les commentaires apparaîtront ici -->
+            </div>
+        </section>
+    
+        <script>
+            document.getElementById("commentForm").addEventListener("submit", function(event) {
+                event.preventDefault();
+    
+                const nom = document.getElementById("nom").value;
+                const message = document.getElementById("message").value;
+                const commentList = document.getElementById("commentList");
+    
+                const newComment = document.createElement("div");
+                newComment.innerHTML = `<p><strong>${nom}</strong> : ${message}</p>`;
+    
+                commentList.appendChild(newComment);
+                document.getElementById("commentForm").reset();
+            });
+        </script>
+    <footer>
+        <p style="text-align: center;">&copy; 2025 - Site pour Étudiants en IA</p>
+    </footer>
+   </div>
+ 
+</body>
+</html>
